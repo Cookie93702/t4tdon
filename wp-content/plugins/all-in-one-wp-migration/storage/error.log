@@ -1,0 +1,21 @@
+Oct 11 2016 00:00:45
+{"Number":2,"Message":"stream_socket_client(): unable to connect to ssl:\/\/172.17.13.238:443 (Connection refused)","File":"\/home\/ubuntu\/workspace\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/model\/http\/class-ai1wm-http-stream.php","Line":62}
+
+Oct 11 2016 00:00:45
+{"Number":2,"Message":"stream_select(): supplied argument is not a valid stream resource","File":"\/home\/ubuntu\/workspace\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/model\/http\/class-ai1wm-http-stream.php","Line":70}
+
+Oct 11 2016 00:00:45
+{"Number":2,"Message":"stream_select(): No stream arrays were passed","File":"\/home\/ubuntu\/workspace\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/model\/http\/class-ai1wm-http-stream.php","Line":70}
+
+Oct 11 2016 00:00:45
+{"Number":2,"Message":"fwrite() expects parameter 1 to be resource, boolean given","File":"\/home\/ubuntu\/workspace\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/model\/http\/class-ai1wm-http-stream.php","Line":79}
+
+Oct 11 2016 00:00:45
+{"Number":1024,"Message":"fwrite wrote only 0 instead of 308","File":"\/home\/ubuntu\/workspace\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/model\/http\/class-ai1wm-http-stream.php","Line":80}
+
+Oct 11 2016 00:00:45
+{"Number":2,"Message":"stream_set_blocking() expects parameter 1 to be resource, boolean given","File":"\/home\/ubuntu\/workspace\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/model\/http\/class-ai1wm-http-stream.php","Line":84}
+
+Oct 11 2016 00:00:45
+{"Number":2,"Message":"fclose() expects parameter 1 to be resource, boolean given","File":"\/home\/ubuntu\/workspace\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/model\/http\/class-ai1wm-http-stream.php","Line":87}
+
